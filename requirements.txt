@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.20.1
 plotly
 seaborn
 matplotlib
